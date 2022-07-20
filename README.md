@@ -13,6 +13,12 @@ git init
 git remote add origin <ssh_url>
 git clone origin
 
+## Crear una nueva rama
+
+git checkout -b <nombre> //Crea una nueva rama y cambia directamente a ella
+git branch <nombre> //Crea la rama
+git checkout <nombre> //Cambia a esa rama
+
 
 
 
