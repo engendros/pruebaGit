@@ -26,7 +26,6 @@ git checkout <mergeada> //Volvemos a la rama en la que vamos a mergear
 git merge --no-ff <mergeadora> //No fusiona las historias
 git merge <mergeadora> //Fusiona las historias
 
-asd
 
 
 
