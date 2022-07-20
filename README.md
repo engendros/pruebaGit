@@ -19,7 +19,7 @@ git checkout -b <nombre> //Crea una nueva rama y cambia directamente a ella
 git branch <nombre> //Crea la rama
 git checkout <nombre> //Cambia a esa rama
 
-
+git branch -d <nombre> //Borra la rama
 
 
 
