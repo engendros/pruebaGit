@@ -21,5 +21,10 @@ git checkout <nombre> //Cambia a esa rama
 
 git branch -d <nombre> //Borra la rama
 
+## Mergear una rama
+git checkout <mergeada> //Volvemos a la rama en la que vamos a mergear
+git merge --no-ff <mergeadora> //No fusiona las historias
+git merge <mergeadora> //Fusiona las historias
+
 
 
