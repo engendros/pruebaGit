@@ -7,6 +7,13 @@ Vamos a git y lo añadimos en el repositorio
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/<cert_name>
 
+## Crear el repositorio remoto
+
+git init
+git remote add origin <ssh_url>
+git clone origin
+
+
 
 
 
